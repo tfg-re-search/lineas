@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 title: [TFG(Re)Search]
-description: [Página del proyecto de innovación docente para Trabajos de Fin de Grado en Matemáticas de la Universidad de Granada]
+description: [Líneas de Investigación]
 logo: /assets/img/logo-tri.png
 include:
   - README.md
