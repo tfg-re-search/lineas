@@ -8,3 +8,6 @@ description: [Página del proyecto de innovación docente para Trabajos de Fin d
 logo: /assets/img/logo-tri.png
 include:
   - README.md
+  - mapli/numerico.md
+  - mapli/polinomios-ort.md
+  - mapli/convexo.md
