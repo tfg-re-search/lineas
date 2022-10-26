@@ -1,4 +1,4 @@
-# Análisis Convexo y numérico
+# Análisis Convexo y Numérico
 
 ## Profesores implicados 
 -  M. Isabel Berenguer Maldonado (Grupo de investigación Análisis convexo y numérico)
