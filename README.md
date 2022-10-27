@@ -1,4 +1,4 @@
-![TFG(Re)Search](assets/img/logo-tri-simple.png)
+![TFG(Re)Search](assets/img/logo-tri-simple.svg)
 
 - [Análisis Convexo y numérico](mapli/convexo.md)
 - [Análisis numérico y teórico de modelos micro y mesoscópicos en teoría cinética y biología](mapli/numerico.md)
