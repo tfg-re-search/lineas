@@ -41,7 +41,9 @@ actividad en los últimos años).
 
 Estos polinomios están caracterizados por ser soluciones de una ecuación
 diferencial lineal 
-$$Ay''+By'+\lambda_n y=0\,,$$ 
+
+$$Ay''+By'+\lambda_n y=0,$$ 
+
 donde $A$ y $B$ son
 polinomios de grado a lo sumo $2$ y $1$ respectivamente y $\lambda_n$ es
 una constante dependiente del grado $n$. Estos polinomios han sido
@@ -58,8 +60,10 @@ clásicos llevada al contexto de polinomios en varias variables.
 Una red de Toda es un sistema dinámico para un sistema finito o infinito
 de partículas cuya posición viene dada por
 $\dots, x_{n-1}<x_n<x_{n+1}<\dots $ y cuyo movimiento se rige por la
-ecuación difero-diferencial 
+ecuación difero-diferencial
+
 $$x_n''=e^{x_{n-1}-x_n}-e^{x_n-x_{n+1}},$$
+
 donde $x''$ se refiere a la derivada segunda respecto del tiempo. Dicho
 de otro modo, la aceleración con la que se mueve una partícula depende
 de la posición de esa partícula respecto a las dos que tiene
@@ -68,15 +72,20 @@ dinámico están íntimamente ligadas con los polinomios ortogonales
 $p_n(x;t)$ respecto a un peso de la forma $e^{tx}w(x)$ siendo $t$ el
 tiempo y más en concreto con los coeficientes de la relación de
 recurrencia que satisfacen dichos polinomios ortogonales
+
 $$xp_n(x:t)=p_{n+1}(x;t)+b_n(t)p_n(x;t)+a_n^2(t)p_{n-1}(x;t).$$
 
 ### Línea 4: Polinomios ortogonales en el simplex
 
 Se trata de polinomios ortogonales en varias variables en el caso de que
 el peso de ortogonalidad esté soportado en el simplex $T^d$
+
 $$T^d=\{(x_1,x_2,\dots,x_d)\in\mathbb{R}^d: x_1\geq 0, x_2\geq 0, \dots, x_d\geq 0, x_1+x_2+\dots+x_d\leq 1\}.$$
+
 Usualmente se escogen pesos de la forma
+
 $$w(x)=x_1^{\alpha_1}x_2^{\alpha_2}\dots x_d^{\alpha_d}(1-|x_1+x_2+\dots+x_d|)^{\alpha_{d+1}},$$
+
 lo que lleva a poder encontrar bases ortogonales de polinomios
 expresadas en términos de los polinomios de Jacobi univariados.
 
