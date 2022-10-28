@@ -31,7 +31,7 @@ El propósito de la línea de trabajo es introducir al alumnado interesado en la
 
 
 ### Enlaces de interés
-https://blogs.ugr.es/convex/es/home-espanol/
+<https://blogs.ugr.es/convex/es/home-espanol/>
 
 ### Tipologías posibles
 - Complemento de profundización
