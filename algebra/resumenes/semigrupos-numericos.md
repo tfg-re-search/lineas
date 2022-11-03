@@ -577,8 +577,8 @@ Sobrecargamos la notación adrede, ya que
 $$\operatorname{s}(a,b,c)=\operatorname{s}\Big(\big[\frac{b}a,\frac{b}{a-c}\big]\Big)$$ 
 
 (al hacer
-las cuentas módulo $b$, podemos suponer que $a<b$; si $c\geq a$,
-entonces $\operatorname{s}(a,b,c)=\mathbb{N}$, por lo que suponemos también que $c<a<b$).
+las cuentas módulo $b$, podemos suponer que $a < b$; si $c\geq a$,
+entonces $\operatorname{s}(a,b,c)=\mathbb{N}$, por lo que suponemos también que $c < a <b$).
 
 Si $S$ es un semigrupo numérico proporcionalmente modular y $g$ es su
 número Frobenius, entonces en general $S\cup \lbrace g\rbrace$  no es
@@ -705,7 +705,7 @@ conjunto de longitudes como el conjunto de conjuntos de longitudes de
 sus elementos. Chapman y sus alumnos han probado recientemente el el
 conjunto de factorizaciones de $S$ no determina de forma unívoca a $S$.
 
-Si $\lbrace l_1<\cdots<l_t\rbrace$  es el conjunto de longitudes de factorizaciones
+Si $\lbrace l_1 < \cdots < l_t\rbrace$  es el conjunto de longitudes de factorizaciones
 de $n$ en $S$, se define
 $\operatorname{D}elta(n)=\lbrace l_2-l_1,l_3-l_2,\cdots,l_t-l_{t-1}\rbrace$ , y $\operatorname{D}elta(S)$ es la
 unión de todos los conjuntos delta de sus elementos. Chapman y sus
