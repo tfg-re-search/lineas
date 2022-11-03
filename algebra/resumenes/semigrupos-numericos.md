@@ -779,3 +779,5 @@ en un libro en honor a Gilmer (al cual todos los que trabajamos en
 anillos de semigrupo estamos en deuda). En nuestro libro (escrito con
 Rosales) “Numerical semigroups” hemos intentado recopilar las
 herramientas básicas para empezar a trabajar en semigrupos numéricos. En nuestro libro "Numerical semigroups and applications" hemos intentado además recoger algunas de las aplicaciones de los semigrupos en otras áreas de las matemáticas.
+
+Estas notas se basan en un curso impartido en Jarandilla de la Vera en 2008 por Pedro A. García Sánchez. En julio de 2022 también se impartió un curso en Lisboa que se puede consultar en este [enlace](https://github.com/numerical-semigroups/Course-Lisbon-2022) junto con un [tutorial](https://github.com/numerical-semigroups/Course-Lisbon-2022/blob/main/tutorial-numericalsgps.ipynb) para `numericalsgps`.
