@@ -73,8 +73,8 @@ maximales de $\mathbb{Z}\setminus S$ respecto de este orden.
 A los enteros positivos que no están en $S$ se les llama *saltos* (o huecos) de
 $S$, y su cardinalidad es el *género* (o grado de singularidad) de $S$.
 Si $g$ es el número de Frobenius de $S$, algunos autores usan el nombre
-*hueco* para aquellos enteros $x$ tales que $x\mathbb{N}ot \in S$ y
-$g-x\mathbb{N}ot\in S$. Todo hueco es un salto, pero puede haber saltos que no
+*hueco* para aquellos enteros $x$ tales que $x\not \in S$ y
+$g-x\not\in S$. Todo hueco es un salto, pero puede haber saltos que no
 son huecos.
 
 El entero positivo más pequeño que pertenece a un semigrupo numérico es
@@ -92,7 +92,7 @@ Usando esa idea, podemos considerar, para un elemento no nulo $n$ de un
 semigrupo numérico $S$, el conjunto $\{w_0,\ldots,w_{n-1}\}$ donde $w_i$
 es el menor elemento en $S$ congruente con $i$ módulo $n$. Se puede
 comprobar fácilmente que este conjunto es precisamente
-$\{s\in S~|~ s-n\mathbb{N}ot\in S\}$. Apéry fue el primero en explotar esta
+$\{s\in S~|~ s-n\not\in S\}$. Apéry fue el primero en explotar esta
 idea, y es por eso que este conjunto se conoce como el *conjunto de
 Apéry* de $n$ en $S$. Si $n$ es la multiplicidad de $S$, a veces a este
 conjunto se le llama una base estándar de $S$. Como este conjunto
@@ -150,7 +150,7 @@ siguiente manera. Sea $S$ un semigrupo numérico y sea $m$ su
 multiplicidad. Si $\operatorname{Ap}(S,m)=\{w_0=0,w_1,\ldots,w_{m-1}\}$ con $w_i$
 congruente con $i$ módulo $m$, entonces $w_i= k_i m +i$ para algún
 entero no negativo $k_i$. Como $m$ es la multiplicidad y
-$m\leq w_i\in S$, si $i\mathbb{N}ot=0$, se tiene $k_i\geq 1$. La condición
+$m\leq w_i\in S$, si $i\not=0$, se tiene $k_i\geq 1$. La condición
 $w_i+w_j=w_{(i+j)\mod m}+km$ se puede reescribir como
 $(k_i+k_j)m+i+j=k_{(i+j)\mod m}m+(i+j)\mod m +km$. Como
 $i+j=\lfloor \frac{i+j}m\rfloor m+ (i+j)\mod m$, se llega a
@@ -161,7 +161,7 @@ $$
 \left\{
 \begin{array}{rll}
 x_i & \geq 1, & 1\leq i\leq m-1, \\
-x_i+x_j +\lfloor \frac{i+j}m\rfloor & \geq x_{(i+j)\mod m}, & 1\leq i\leq j\leq m-1, i+j\mathbb{N}ot=m.
+x_i+x_j +\lfloor \frac{i+j}m\rfloor & \geq x_{(i+j)\mod m}, & 1\leq i\leq j\leq m-1, i+j\not=m.
 \end{array} \right.$$ 
 
 Además, si $(k_1,\ldots,k_{m-1})\in \mathbb{N}^{m-1}$ es
@@ -205,7 +205,7 @@ $x$ también tiene que ser un salto de $S$. Por tanto, de entre los
 saltos de $S$ sólo necesitamos aquellos que son maximales respecto de
 la división. Éstos son conocidos como *saltos fundamentales* de $S$, y
 determinan de forma unívoca a $S$. Se tiene así que $x$ es un salto
-fundamental de $S$ si y sólo si $x\mathbb{N}ot\in S$ y $\{2x,3x\}\subset S$.
+fundamental de $S$ si y sólo si $x\not\in S$ y $\{2x,3x\}\subset S$.
 
 Sea $X$ un subconjunto no vacío de enteros positivos. Denotemos por
 $\operatorname{D}(X)$ el conjunto de divisores positivos de los elementos de $X$. Si
@@ -225,7 +225,7 @@ superior siempre se alcanza con $\{0,g+1,\to\}$.
 Los generadores minimales de un semigrupo numérico $S$ se pueden
 caracterizar como aquellos elementos $n\in S$ para los cuales el
 conjunto $S\setminus\{n\}$ es de nuevo un semigrupo numérico. Dualizando
-esta idea, ¿que enteros $x\mathbb{N}ot\in S$ verifican que $S\cup\{x\}$ sea un
+esta idea, ¿que enteros $x\not\in S$ verifican que $S\cup\{x\}$ sea un
 semigrupo numérico? Si $S\cup\{x\}$ es un semigrupo numérico, entonces
 
 -   $k x\in S$ para cualquier $k$ entero mayor que uno, a saber,
@@ -254,7 +254,7 @@ saltos fundamentales de $S$ e $Y$ es el conjunto de saltos fundamentales
 de $S\cup \{x\}$ para algún $x\in X$, entonces
 
 $$Y=(X\setminus\{x\})\cup \left\{ \frac{x}p : p \hbox{ un primo que divide a } x \hbox{
-y } \frac{x}p\mathbb{N}ot \in \operatorname{D}(X\setminus\{x\})\right\}.$$
+y } \frac{x}p\not \in \operatorname{D}(X\setminus\{x\})\right\}.$$
 
 Consideremos el semigrupo $S=\mathbb{N}\setminus\operatorname{D}(5,6)$. Tenemos que $5$ es
 primo y $6=2\cdot 3$, y ambos are maximales en $\{5,6\}$ respecto de
@@ -322,7 +322,7 @@ $G_n$; en la definición que hemos dado lo hacemos en forma de estrella,
 con $C_1$ en el centro). Como cabía esperar, sólo hay un número finito
 de $n\in S$ para los que $G_n$ es no conexo. Rosales demostró en su día
 que si $G_n$ es no conexo, entonces $n$ es de la forma $n=n_i+w$ con
-$i\in \{2,\ldots,p\}$ y $0\mathbb{N}ot=w\in\operatorname{Ap}(S,n_1)$ (una vez más nos topamos
+$i\in \{2,\ldots,p\}$ y $0\not=w\in\operatorname{Ap}(S,n_1)$ (una vez más nos topamos
 con los conjuntos de Apéry).
 
 ## Algo sobre anillos de semigrupo
@@ -367,7 +367,7 @@ minimal de generadores de ${\rm Ker}(\psi)$.
 
 En $K[\![S]\!]$ uno puede definir la aplicación $v:K[\![S]\!]\to S$,
 $v(\sum_{s\in S}a_st^s)$ como el más pequeño elemento $s$ de $S$ tal que
-$a_s\mathbb{N}ot=0$. Esto define una valuación en $K[\![S]\!]$. Varios autores han
+$a_s\not=0$. Esto define una valuación en $K[\![S]\!]$. Varios autores han
 explotado esta aplicación debido a sus generosas propiedades. Si $I$ es
 un ideal fraccionario de $K[\![S]\!]$, entonces $v(I)$ es un ideal relativo
 de $S$, a saber, un subconjunto de $\mathbb{Z}$ (el grupo cociente de $S$) tal
@@ -385,7 +385,7 @@ cierta transcendencia.
 
 Un semigrupo numérico es *simétrico* si no tiene huecos. Esto es, si $S$
 es nuestro semigrupo numérico y tiene número de Frobenius $g$, entonces
-para cada entero $x$, el hecho de que $x\mathbb{N}ot \in S$, lleva a $g-x\in S$.
+para cada entero $x$, el hecho de que $x\not \in S$, lleva a $g-x\in S$.
 Fröberg, Gottlieb y Häggkvist probaron que los semigrupos numéricos
 simétricos son aquellos que tienen un número de Frobenius impar y con el
 menor número posible de saltos, lo que equivale a decir que son
@@ -665,7 +665,7 @@ sentido de que no se pueden obtener como combinación de otros elementos
 de $S$. Por tanto, 6 admite dos factorizaciones o expresiones
 esencialmente distintas en $S$ como combinación de irreducibles. Nótese
 además que 2 “divide” a 6 en $S$, ya que $2+4=6$ y $4\in S$. Como
-$6=3+3$ y $2$ no divide a $3$, pues $1\mathbb{N}ot\in S$, tenemos que 2 es un
+$6=3+3$ y $2$ no divide a $3$, pues $1\not\in S$, tenemos que 2 es un
 irreducible que no es “primo”. Lo mismo le ocurre al 3. En general, en
 un semigrupo numérico, sus generadores minimales son sus elementos
 irreducibles, y ninguno de ellos es primo. Es más en un semigrupo
