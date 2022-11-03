@@ -11,9 +11,9 @@ en Ortogonalidad y Aplicaciones (FQM 384 - GOYA)
 Los polinomios ortogonales en el sentido más clásico vienen definidos de
 la siguiente forma. Dado un peso $w$ (una función positiva) soportado en
 un conjunto $I$ de la recta real, existe una familia de polinomios
-$\{p_n\}_{n=0}^\infty$ tales que cada $p_n$ es de grado $n$ y
+$\lbrace p_n\rbrace_{n=0}^\infty$ tales que cada $p_n$ es de grado $n$ y
 
-$$\int_I x^kp_n(x)w(x)dx\begin{cases}=0\,,\text{ si }k<n\,,\\ \neq 0\,, \text{ si } k=n\,.\end{cases}$$
+$$\int_I x^kp_n(x)w(x)dx\begin{cases}=0\,,\text{ si }k < n\,,\\ \neq 0\,, \text{ si } k=n\,.\end{cases}$$
 
 Estos polinomios presentan gran riqueza de propiedades y aplicaciones
 debido a sus múltiples relaciones con diferentes ramas de las
@@ -59,7 +59,7 @@ clásicos llevada al contexto de polinomios en varias variables.
 
 Una red de Toda es un sistema dinámico para un sistema finito o infinito
 de partículas cuya posición viene dada por
-$\dots, x_{n-1}<x_n<x_{n+1}<\dots $ y cuyo movimiento se rige por la
+$\dots, x_{n-1} < x_n < x_{n+1} < \dots $ y cuyo movimiento se rige por la
 ecuación difero-diferencial
 
 $$x_n''=e^{x_{n-1}-x_n}-e^{x_n-x_{n+1}},$$
@@ -80,7 +80,7 @@ $$xp_n(x:t)=p_{n+1}(x;t)+b_n(t)p_n(x;t)+a_n^2(t)p_{n-1}(x;t).$$
 Se trata de polinomios ortogonales en varias variables en el caso de que
 el peso de ortogonalidad esté soportado en el simplex $T^d$
 
-$$T^d=\{(x_1,x_2,\dots,x_d)\in\mathbb{R}^d: x_1\geq 0, x_2\geq 0, \dots, x_d\geq 0, x_1+x_2+\dots+x_d\leq 1\}.$$
+$$T^d=\lbrace(x_1,x_2,\dots,x_d)\in\mathbb{R}^d: x_1\geq 0, x_2\geq 0, \dots, x_d\geq 0, x_1+x_2+\dots+x_d\leq 1\rbrace.$$
 
 Usualmente se escogen pesos de la forma
 
@@ -93,7 +93,7 @@ expresadas en términos de los polinomios de Jacobi univariados.
 
 Los polinomios de Zernike son una familia de polinomios en 2 variables
 que son ortogonales en el disco
-$\{(x,y)\in\mathbb{R}^2: x^2+y^2\leq 1\}$ respecto al peso $w(x,y)=1$.
+$\lbrace(x,y)\in\mathbb{R}^2: x^2+y^2\leq 1\rbrace$ respecto al peso $w(x,y)=1$.
 Estos polinomios son usados como un estándar en óptica debido a que los
 coeficientes de las series de Fourier que aparecen al usar esta base,
 describen las diferentes aberraciones ópticas (astigmatismo, coma,
