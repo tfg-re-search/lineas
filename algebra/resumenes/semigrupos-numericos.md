@@ -27,8 +27,7 @@ mayor entero para el que no existe una solución de la anterior ecuación.
 Éste se conoce como el problema de Frobenius, y parece ser que Frobenius
 lo propuso en una de sus clases.
 
-Generadores, una primera opción para representar un semigrupo
-=============================================================
+## Generadores, una primera opción para representar un semigrupo
 
 El conjunto $S$ de enteros para los que existe una solución entera y no
 negativa de $a_1x_1+\cdots+ a_nx_n=b$ puede ser expresado como
