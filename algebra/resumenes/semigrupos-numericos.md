@@ -10,7 +10,7 @@ conjuntos son de por sí monoides. Es por ello que algunos autores
 prefieren usar el término monoide numérico.
 
 Dado un submonoide $S$ de $\mathbb{N}$ (respecto de la suma), podemos considerar
-el conjunto $\lbrace s/d~|~ s\in S\rbrace$ , con $d$ el máximo común divisor de los
+el conjunto $\lbrace s/d\mid s\in S\rbrace$ , con $d$ el máximo común divisor de los
 elementos de $S$, el cual resulta tener complemento finito en $\mathbb{N}$, y
 por tanto es un semigrupo numérico. De esta manera se tiene que
 cualquier submonoide de $\mathbb{N}$ es isomorfo a un (único) semigrupo
@@ -31,7 +31,7 @@ lo propuso en una de sus clases.
 
 El conjunto $S$ de enteros para los que existe una solución entera y no
 negativa de $a_1x_1+\cdots+ a_nx_n=b$ puede ser expresado como
-$\lbrace  a_1 x_1+\cdots+ a_n x_n ~|~ x_1,\ldots,x_n\in \mathbb{N}\rbrace$ , o incluso
+$\lbrace  a_1 x_1+\cdots+ a_n x_n \mid x_1,\ldots,x_n\in \mathbb{N}\rbrace$ , o incluso
 usando una notación más abreviada como $\langle a_1,\ldots,a_n\rangle$.
 Decimos que $\lbrace a_1,\ldots,a_n\rbrace$  es un *sistema de generadores* de $S$,
 o simplemente que $\lbrace a_1,\ldots,a_n\rbrace$  genera a $S$. Si ningún
@@ -92,7 +92,7 @@ Usando esa idea, podemos considerar, para un elemento no nulo $n$ de un
 semigrupo numérico $S$, el conjunto $\lbrace w_0,\ldots,w_{n-1}\rbrace$  donde $w_i$
 es el menor elemento en $S$ congruente con $i$ módulo $n$. Se puede
 comprobar fácilmente que este conjunto es precisamente
-$\lbrace s\in S~|~ s-n\not\in S\rbrace$ . Apéry fue el primero en explotar esta
+$\lbrace s\in S\mid s-n\not\in S\rbrace$ . Apéry fue el primero en explotar esta
 idea, y es por eso que este conjunto se conoce como el *conjunto de
 Apéry* de $n$ en $S$. Si $n$ es la multiplicidad de $S$, a veces a este
 conjunto se le llama una base estándar de $S$. Como este conjunto
@@ -281,7 +281,7 @@ $$\varphi: \mathbb{N}^p \to S,\ \varphi(a_1,\ldots,a_p)=a_1n_1+\cdots+a_pn_p$$
 
 es un epimorfismo de monoides, y en consecuencia $S$ es isomorfo a
 $\mathbb{N}^p/{\rm Ker (\varphi)}$, donde
-${\rm Ker}(\varphi)=\lbrace  (a,b)\in \mathbb{N}^p\times \mathbb{N}^p ~|~ \varphi(a)=\varphi(b)\rbrace$ .
+${\rm Ker}(\varphi)=\lbrace  (a,b)\in \mathbb{N}^p\times \mathbb{N}^p \mid \varphi(a)=\varphi(b)\rbrace$ .
 Una *presentación* de $S$ no es más que un sistema de generadores como
 congruencia de ${\rm Ker}(\varphi)$.
 
@@ -300,11 +300,11 @@ numérico con sistema minimal de generadores $\lbrace n_1,\ldots,n_p\rbrace$ .
 Tomemos $n\in S$. Asociado a $n$ definimos un grafo $G_n$ cuyos vértices
 son 
 
-$$V_n=\lbrace  n_i ~|~ n-n_i\in \mathbb{N}\rbrace$ $ 
+$$V_n=\lbrace  n_i \mid n-n_i\in \mathbb{N}\rbrace$ $ 
 
 y con lados
 
-$$E_n=\lbrace  n_in_j ~|~ n-(n_i+n_j)\in \mathbb{N}\rbrace .$$ 
+$$E_n=\lbrace  n_in_j \mid n-(n_i+n_j)\in \mathbb{N}\rbrace .$$ 
 
 Si $G_n$ es conexo, definimos
 $\rho_n=\emptyset$. En caso contrario, supongamos que $C_1,\ldots,C_k$
@@ -362,7 +362,7 @@ $X^a=x_1^{a_1}\cdots x_p^{a_p}$.
 
 Herzog demostró que $(a,b)\in {\rm Ker}(\varphi)$ si y sólo si
 $X^a-X^b\in {\rm Ker}(\psi)$. Es más, si $\rho$ es una presentación
-minimal de $S$, el conjunto $\lbrace X^a-X^b~|~ (a,b)\in\rho\rbrace$  es un sistema
+minimal de $S$, el conjunto $\lbrace X^a-X^b\mid (a,b)\in\rho\rbrace$  es un sistema
 minimal de generadores de ${\rm Ker}(\psi)$.
 
 En $K[\![S]\!]$ uno puede definir la aplicación $v:K[\![S]\!]\to S$,
@@ -541,13 +541,13 @@ de Apéry que vimos en la sesión anterior, $f_S(x+y)\leq f_S(x)+f_S(y)$.
 Además $f_S(x+m)=f_S(x)$. Por tanto, $f_S$ es subaditiva, $f_S(0)=0$ y
 es periódica de periodo $m$. Es más, 
 
-$$S=\lbrace x\in \mathbb{N} ~|~ f_S(x)\leq x\rbrace .$$
+$$S=\lbrace x\in \mathbb{N} \mid f_S(x)\leq x\rbrace .$$
 
 El recíproco de este hecho también es cierto. A saber, si tomamos una
 función subaditiva cualquiera $f$ con $f(0)=0$ y $f(x+m)=f(x)$ para todo
 entero no negativo $x$, entonces el conjunto
 
-$$S_f=\lbrace x\in \mathbb{N} ~|~ f(x)\leq x\rbrace$$ 
+$$S_f=\lbrace x\in \mathbb{N} \mid f(x)\leq x\rbrace$$ 
 
 es un semigrupo numérico.
 
@@ -609,7 +609,7 @@ proporcionalmente modular es de la forma $\frac{\langle m,n\rangle}d$,
 donde en general, para un semigrupo $S$ y un entero positivo $d$, se
 define 
 
-$$\frac{S}d=\lbrace  x\in \mathbb{N} ~|~ dx\in S\rbrace ,$$ 
+$$\frac{S}d=\lbrace  x\in \mathbb{N} \mid dx\in S\rbrace ,$$ 
 
 el cual vuelve a ser un
 semigrupo numérico. De esta forma, se sigue que cualquier semigrupo
@@ -697,7 +697,7 @@ La *longitud* de una factorización $a=(a_1,\ldots,a_k)$ de $n$ (y por
 tanto $a_1n_1+\cdots+a_kn_k=n$) es $|a|=a_1+\cdots+a_k$, esto es, el
 número de irreducibles que ocurren en dicha factorización. Podemos
 definir el *conjunto de longitudes de factorizaciones* de $n$ como
-$\lbrace  l~|~ \hbox{existe}\ a\in \mathsf{Z}n), |a|=l\rbrace$ . Se sabe gracias a los
+$\lbrace  l\mid \hbox{existe}\ a\in \mathsf{Z}n), |a|=l\rbrace$ . Se sabe gracias a los
 trabajos de Gerlodinger, Halter-Koch y en general de la escuela de Graz
 que estos conjuntos tienen una estructura que ellos han llamado
 multiprogresiones casi aritméticas. Para el semigrupo $S$ se define el
