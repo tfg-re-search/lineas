@@ -16,7 +16,17 @@
         tex2jax: {
           skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
           inlineMath: [['$','$']]
-        }
+        },
+        "HTML-CSS": {fonts: ['STIX-web']},
+        SVG: {font: 'STIX-Web'},
+        TeX: {Augment: {
+          Definitions: {
+            delimiter: {
+              '\\llbracket': '27E6',
+              '\\rrbracket': '27E7
+            }
+          }
+        }}        
       });
     </script>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
