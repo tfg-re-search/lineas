@@ -329,7 +329,7 @@ con los conjuntos de Apéry).
 
 Sea $K$ un cuerpo y sea $S$ un semigrupo numérico. Escogemos $t$ como un
 símbolo y definimos $K[S]=\bigoplus_{s\in S} K t^s$ y
-$K\llbracket S]\rrbracket=\prod_{s\in S} K t^s$. Representamos a los elementos $h$ de
+$K\llbracket S\rrbracket=\prod_{s\in S} K t^s$. Representamos a los elementos $h$ de
 $K\llbracket S\rrbracket$ como $h=\sum_{s\in S} a_s t^s$, con $a_s\in \mathbb{N}$ para todo $s$.
 El elemento $h$ está en $K[S]$ si $a_s=0$ para casi todos los $s\in S$
 (salvo un número finito). Podemos sumar dos elementos de $K\llbracket S\rrbracket$ (y por
