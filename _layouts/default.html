@@ -14,19 +14,10 @@
     <script>
       MathJax = {
         tex: {
-          inlineMath: [['$', '$']]
-        },
-        "HTML-CSS": {fonts: ['STIX-web']},
-        SVG: {font: 'STIX-Web'},
-        TeX: {
-          Augment: {
-            Definitions: {
-              delimiter: {
-              '\\llbracket': '27E6',
-              '\\rrbracket': '27E7
-              }
-            }
-          }
+          inlineMath: [['$', '$']],
+          macros: {
+            llbracket: ['Macro', '\\mathopen{\u27E6}'],
+            rrbracket: ['Macro', '\\mathclose{\u27E7}'],          }
         }
       };
     </script>
