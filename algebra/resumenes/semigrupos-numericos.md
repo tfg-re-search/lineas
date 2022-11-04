@@ -300,7 +300,7 @@ numérico con sistema minimal de generadores $\lbrace n_1,\ldots,n_p\rbrace$ .
 Tomemos $n\in S$. Asociado a $n$ definimos un grafo $G_n$ cuyos vértices
 son 
 
-$$V_n=\lbrace  n_i \mid n-n_i\in \mathbb{N}\rbrace$ $ 
+$$V_n=\lbrace  n_i \mid n-n_i\in \mathbb{N}\rbrace$$ 
 
 y con lados
 
@@ -329,24 +329,24 @@ con los conjuntos de Apéry).
 
 Sea $K$ un cuerpo y sea $S$ un semigrupo numérico. Escogemos $t$ como un
 símbolo y definimos $K[S]=\bigoplus_{s\in S} K t^s$ y
-$K[\![S]\!]=\prod_{s\in S} K t^s$. Representamos a los elementos $h$ de
-$K[\![S]\!]$ como $h=\sum_{s\in S} a_s t^s$, con $a_s\in \mathbb{N}$ para todo $s$.
+$K\llbracket S]\rrbracket=\prod_{s\in S} K t^s$. Representamos a los elementos $h$ de
+$K\llbracket S\rrbracket$ como $h=\sum_{s\in S} a_s t^s$, con $a_s\in \mathbb{N}$ para todo $s$.
 El elemento $h$ está en $K[S]$ si $a_s=0$ para casi todos los $s\in S$
-(salvo un número finito). Podemos sumar dos elementos de $K[\![S]\!]$ (y por
+(salvo un número finito). Podemos sumar dos elementos de $K\llbracket S\rrbracket$ (y por
 tanto de $K[S]$) simplemente sumando los coeficientes grado a grado, y
 se pueden multiplicar esos elementos usando la propiedad distributiva y
 teniendo en cuenta la regla $t^st^{s'}=t^{s+s'}$. De esta manera, tanto
-$K[\![S]\!]$ como $K[S]$ son anillos. Es más, $K[\![S]\!]$ es una anillo local
+$K\llbracket S\rrbracket$ como $K[S]$ son anillos. Es más, $K\llbracket S\rrbracket$ es una anillo local
 cuyo ideal maximal es $m=(t^{n_1},\ldots,t^{n_p})$, con
 $\lbrace n_1,\ldots,n_p\rbrace$  el sistema minimal de generadores de $S$ (es por
 eso que a $p$ le hemos llamado antes dimensión de inmersión de $S$).
-Algunas propiedades de $K[\![S]\!]$ y de $K[S]$ se pueden caracterizar en
+Algunas propiedades de $K\llbracket S\rrbracket$ y de $K[S]$ se pueden caracterizar en
 función de $S$. Esta posibilidad ha sido la causante de se usen nombres
 para muchos parámetros del semigrupo $S$ que ya existían en teoría de
 anillos.
 
-La clausura entera de $K[\![S]\!]$ es $K[\![t]\!]$, y si $g$ es el número de
-Frobenius de $S$, entonces $t^{g+1}K[\![t]\!]\subseteq K[\![S]\!]$. Es por eso
+La clausura entera de $K\llbracket S\rrbracket$ es $K\llbracket t\rrbracket$, y si $g$ es el número de
+Frobenius de $S$, entonces $t^{g+1}K\llbracket t\rrbracket\subseteq K\llbracket S\rrbracket$. Es por eso
 que a veces al número de Frobenius más uno se le llama *conductor*.
 
 Podemos extender el morfismo $\varphi$ definido anteriormente de forma
@@ -365,11 +365,11 @@ $X^a-X^b\in {\rm Ker}(\psi)$. Es más, si $\rho$ es una presentación
 minimal de $S$, el conjunto $\lbrace X^a-X^b\mid (a,b)\in\rho\rbrace$  es un sistema
 minimal de generadores de ${\rm Ker}(\psi)$.
 
-En $K[\![S]\!]$ uno puede definir la aplicación $v:K[\![S]\!]\to S$,
+En $K\llbracket S\rrbracket$ uno puede definir la aplicación $v:K\llbracket S\rrbracket\to S$,
 $v(\sum_{s\in S}a_st^s)$ como el más pequeño elemento $s$ de $S$ tal que
-$a_s\not=0$. Esto define una valuación en $K[\![S]\!]$. Varios autores han
+$a_s\not=0$. Esto define una valuación en $K\llbracket S\rrbracket$. Varios autores han
 explotado esta aplicación debido a sus generosas propiedades. Si $I$ es
-un ideal fraccionario de $K[\![S]\!]$, entonces $v(I)$ es un ideal relativo
+un ideal fraccionario de $K\llbracket S\rrbracket$, entonces $v(I)$ es un ideal relativo
 de $S$, a saber, un subconjunto de $\mathbb{Z}$ (el grupo cociente de $S$) tal
 que $I+S\subseteq I$ y $I+s\subseteq S$ para algún $s\in S$. Si $I$ y
 $J$ son dos ideales fraccionarios con $J\subseteq I$, entonces la
@@ -394,7 +394,7 @@ numéricos con un número de Frobenius dado. De esta manera se ve que en
 efecto estos semigrupos verifican propiedades extremas, pero aquí no
 acaban esas propiedades. Estos semigrupos se pueden caracterizar como
 aquellos cuyo tipo es uno, y por tanto son los que menor tipo tienen de
-entre todos los semigrupos numéricos. Kunz probó que $K[\![S]\!]$ es
+entre todos los semigrupos numéricos. Kunz probó que $K\llbracket S\rrbracket$ es
 Gorenstein si y sólo si $S$ es simétrico. Por tanto, si uno busca
 ejemplos de anillos Gorenstein, uno puede echar mano de esta bolsa de
 ejemplos. De hecho, tal y como Rosales demostró no hace mucho, uno puede
