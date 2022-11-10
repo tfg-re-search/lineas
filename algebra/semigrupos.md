@@ -2,7 +2,6 @@
 
 ## Profesores implicados 
 
-(con enlaces a las páginas de cada uno, y grupos a los que pertenecen)
 
 - [Patricio Almirón Cuadros](https://directorio.ugr.es/static/PersonalUGR/*/show/5a6188042bb3f73d7fb33a8ef3e23702) $\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1315774)
 - [Pedro A. García Sánchez](https://algebra.ugr.es/pages/personal/fichas_profesores/pedro), [FQM-343](https://semigrupos.ugr.es/) $\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=601396)
@@ -11,17 +10,13 @@
 
 ## Tipologías posibles
 
-(borrar las que no se apliquen)
 
 - Complemento de profundización 
 - Divulgación de las Matemáticas 
-- Docencia e innovación
 - Herramientas informáticas
 - Iniciación a la investigación
 
 ## Breve descripción 
-
-(se usará en la página principal también)
 
 Estudio de conjuntos de enteros no negativos cerrados para la suma. 
 
