@@ -16,3 +16,11 @@
     - Redes de Toda y polinomios ortogonales
     - Polinomios ortogonales en el simplex
     - Polinomios de Zernike
+- [Semigrupos numéricos](algebra/semigrupos.md)
+    - Invariantes de factorización
+    - Intersecciones completas y pegadas
+    - Álgebra de semigrupo
+    - Semigrupos de curva plana irreducible
+    - Familias de semigrupos numéricos
+    - Problemas abiertos y conjeturas
+    - NumericalSgps
