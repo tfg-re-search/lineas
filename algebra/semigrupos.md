@@ -91,6 +91,8 @@ Tener un programa informático que haga cálculos con y en semigrupos numéricos
 - [Numericalsgps](https://www.gap-system.org/Packages/numericalsgps.html)
 - [Tutoriales](https://github.com/numerical-semigroups)
 - [Resumen ampliado](https://tfg-re-search.github.io/lineas/algebra/resumenes/semigrupos-numericos.html) de esta línea
+- Último encuentro internacional de semigrupos numéricos ([IMNS](https://www.ugr.es/~imns2010/2022/))
+- Red [MyA](https://www.ugr.es/~semigrupos/MyA/)
 
 ## Bibliografía
 
