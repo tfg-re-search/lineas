@@ -6,7 +6,7 @@ Ver listado completo en el la [web del grupo](https://www.ugr.es/~surfaces/team.
 ## Tipologías posibles
 
 - Complemento de profundización  
-- Divulgación de las Matemáticas  
+- Docencia e innovación  
 - Iniciación a la investigación
 
 ## Breve descripción 
