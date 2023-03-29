@@ -7,6 +7,8 @@ title: [TFG(Re)Search]
 description: [Líneas de Investigación]
 logo: /assets/img/logo-tri.png
 markdown: kramdown
+kramdown:
+    math_engine: katex
 include:
   - README.md
   - mapli/numerico.md
