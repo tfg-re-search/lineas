@@ -3,6 +3,13 @@
 - [Análisis Convexo y numérico](mapli/convexo.md)
     -  Aproximación iterativa de puntos fijos.
     -  Desigualdades minimax.
+
+- [Análisis geométrico](geom/analisisgeometrico.md)
+    - Superficies mínimas en espacios euclídeos
+    - Superficies con curvatura media constante y curvatura prescrita
+    - Flujos por la curvatura media
+    - Problemas elípticos sobredeterminados
+
 - [Análisis numérico y teórico de modelos micro y mesoscópicos en teoría cinética y biología](mapli/numerico.md)
     - Modelos de poblaciones neuronales.
     -  Modelos en teoría cinética.
