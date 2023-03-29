@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman-blog
+theme: jekyll-theme-cayman
 defaultLang: es
 relative_links:
   enabled: true
