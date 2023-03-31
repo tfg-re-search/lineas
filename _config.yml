@@ -16,4 +16,5 @@ include:
   - mapli/convexo.md
   - algebra/resumenes/semigrupos-numericos.md
   - algebra/semigrupos.md
+  - algebra/difusos.md
   - geom/analisisgeometrico.md
