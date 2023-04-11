@@ -4,6 +4,11 @@
     -  Aproximación iterativa de puntos fijos.
     -  Desigualdades minimax.
 
+- [Análisis de Datos Funcionales](stad/DatosFuncionales.md)
+    - Representación básica de curvas muestrales
+    - Reducción de dimensión
+    - Aprendizaje estadístico funcional
+
 - [Análisis geométrico](geom/analisisgeometrico.md)
     - Superficies mínimas en espacios euclídeos
     - Superficies con curvatura media constante y curvatura prescrita
