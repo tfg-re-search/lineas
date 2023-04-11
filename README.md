@@ -4,7 +4,7 @@
     -  Aproximación iterativa de puntos fijos.
     -  Desigualdades minimax.
 
-- [Análisis de Datos Funcionales](stad/DatosFuncionales.md)
+- [Análisis de Datos Funcionales](estad/DatosFuncionales.md)
     - Representación básica de curvas muestrales
     - Reducción de dimensión
     - Aprendizaje estadístico funcional
