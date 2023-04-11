@@ -13,7 +13,7 @@
 - [M. Carmen Aguilera Morillo](http://www.upv.es/ficha-personal/mdagumor) Dpto. de Estadística e I.O. aplicadas y calidad de la Universidad Politécnica de Valencia
 - [Christian J. Acal González](https://estadistica.ugr.es/informacion/directorio-personal/christian-jose-acal-gonzalez)
 
-### Otros miembros del grupo de investigación:
+### Otros miembros del grupo de investigación:
 - [Juan Eloy Ruiz Castro](https://estadistica.ugr.es/informacion/directorio-personal/juan-eloy-ruiz-castro)
 - [Francisco J. Alonso Morales](https://estadistica.ugr.es/informacion/directorio-personal/francisco-j-alonso-morales)
 - [Francisco A. Ocaña Lara](https://estadistica.ugr.es/informacion/directorio-personal/francisco-antonio-ocana-lara)
