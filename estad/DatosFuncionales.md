@@ -73,15 +73,14 @@ Regresión lineal y logística con datos funcionales, regresión en componentes 
 ## Bibliografía
 
 Algunos de nuestros artículos más recientes son:
-
-    - [Basis expansion approaches for functional analysis of variance with repeated measures](https://digibug.ugr.es/handle/10481/74325)
-    - [logitFD: an R package for functional principal component logit regression](https://www.researchgate.net/publication/367167854_logitFD_an_R_package_for_functional_principal_component_logit_regression)
-    - [Memristor variability and stochastic physical properties modeling from a multivariate time series approach](https://digibug.ugr.es/handle/10481/71825) 
-    - [Functional ANOVA approaches for detecting changes in air pollution during the COVID-19 pandemic](https://www.researchgate.net/publication/354110723_Functional_ANOVA_approaches_for_detecting_changes_in_air_pollution_during_the_COVID-19_pandemic)
-    - [Linear-Phase-Type probability modelling of functional PCA with applications to resistive memories](https://digibug.ugr.es/handle/10481/69124)
-    - [Comparison of Positivity in Two Epidemic Waves of COVID-19 in Colombia with FDA](https://www.researchgate.net/publication/364937818_Comparison_of_Positivity_in_Two_Epidemic_Waves_of_COVID-19_in_Colombia_with_FDA)
-    - [Introducing a bibliometric index based on factor analysis](https://www.researchgate.net/publication/356203087_Introducing_a_bibliometric_index_based_on_factor_analysis)
-    - [Assessing Social Interest in Burnout Using Google Trends Data](https://www.researchgate.net/publication/337936295_Assessing_Social_Interest_in_Burnout_Using_Google_Trends_Data)
-    - [Functional Modeling of High-Dimensional Data: A Manifold Learning Approach](https://www.researchgate.net/publication/349449385_Functional_Modeling_of_High-Dimensional_Data_A_Manifold_Learning_Approach)
-    - [Fast partial quantile regression](https://www.researchgate.net/publication/359141223_Fast_partial_quantile_regression)
-    - [Bi-Smoothed Functional Independent Component Analysis for EEG Artifact Removal](https://www.researchgate.net/publication/351995309_Bi-Smoothed_Functional_Independent_Component_Analysis_for_EEG_Artifact_Removal)
+- [Basis expansion approaches for functional analysis of variance with repeated measures](https://digibug.ugr.es/handle/10481/74325)
+- [logitFD: an R package for functional principal component logit regression](https://www.researchgate.net/publication/367167854_logitFD_an_R_package_for_functional_principal_component_logit_regression)
+- [Memristor variability and stochastic physical properties modeling from a multivariate time series approach](https://digibug.ugr.es/handle/10481/71825) 
+- [Functional ANOVA approaches for detecting changes in air pollution during the COVID-19 pandemic](https://www.researchgate.net/publication/354110723_Functional_ANOVA_approaches_for_detecting_changes_in_air_pollution_during_the_COVID-19_pandemic)
+- [Linear-Phase-Type probability modelling of functional PCA with applications to resistive memories](https://digibug.ugr.es/handle/10481/69124)
+- [Comparison of Positivity in Two Epidemic Waves of COVID-19 in Colombia with FDA](https://www.researchgate.net/publication/364937818_Comparison_of_Positivity_in_Two_Epidemic_Waves_of_COVID-19_in_Colombia_with_FDA)
+- [Introducing a bibliometric index based on factor analysis](https://www.researchgate.net/publication/356203087_Introducing_a_bibliometric_index_based_on_factor_analysis)
+- [Assessing Social Interest in Burnout Using Google Trends Data](https://www.researchgate.net/publication/337936295_Assessing_Social_Interest_in_Burnout_Using_Google_Trends_Data)
+- [Functional Modeling of High-Dimensional Data: A Manifold Learning Approach](https://www.researchgate.net/publication/349449385_Functional_Modeling_of_High-Dimensional_Data_A_Manifold_Learning_Approach)
+- [Fast partial quantile regression](https://www.researchgate.net/publication/359141223_Fast_partial_quantile_regression)
+- [Bi-Smoothed Functional Independent Component Analysis for EEG Artifact Removal](https://www.researchgate.net/publication/351995309_Bi-Smoothed_Functional_Independent_Component_Analysis_for_EEG_Artifact_Removal)
