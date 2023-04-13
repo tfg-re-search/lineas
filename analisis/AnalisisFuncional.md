@@ -1,4 +1,4 @@
-# Línea de trabajo: Análisis Funcional. Operadores y geometría de los espacios y las álgebras de Banach.
+# Análisis Funcional. Operadores y geometría de los espacios y las álgebras de Banach.
 
 ## <span id="anchor"></span>Profesores implicados
 
