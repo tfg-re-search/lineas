@@ -1,6 +1,4 @@
-# Línea de trabajo
-
-Ecuaciones en Derivadas Parciales en Física y Geometría
+#  Ecuaciones en Derivadas Parciales en Física y Geometría
 
 ## Profesores implicados
 
