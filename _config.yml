@@ -20,4 +20,6 @@ include:
   - algegra/algheu.md
   - geom/analisisgeometrico.md
   - estad/DatosFuncionales.md
+  - analisis/AnalisisFuncional.md
+  - analisis/EDPAnalisis.md
   
