@@ -69,7 +69,7 @@ Por lo tanto, se asume la hipótesis de que no es posible diseñar un algoritmo 
 - D. J. Bernstein, J. Buchmann, E. Dahmen, Editors. Post-Quantum Cryptography. Springer, 2010.
 - M. P. Cuéllar, J. Gómez-Torrecillas, F. J. Lobillo and Gabriel Navarro, Genetic algorithms with permutation-based representation for computing the distance of linear codes, Swarm and Evolutionary Computation 60 (2021), 100797.
 - M.P. Cuéllar, J. Lobillo and Gabriel Navarro, Fast parallel computation of reduced row echelon form to find the minimum distance of linear codes, Expert Systems with Applications 224 (2023), article 119955.
-J. Gómez-Torrecillas, F.J. Lobillo, and Gabriel Navarro, Peterson-Gorenstein-Zierler algorithm for skew RS codes, Linear and Multilinear Algebra 66 (2018), 469-487.
+- J. Gómez-Torrecillas, F.J. Lobillo, and Gabriel Navarro, Peterson-Gorenstein-Zierler algorithm for skew RS codes, Linear and Multilinear Algebra 66 (2018), 469-487.
 - J. Gómez-Torrecillas, F.J. Lobillo, and G. Navarro, A new perspective of cyclicity in convolutional codes, IEEE Transactions on Information Theory 62 (5) (2016), 2702-2706.
 - W. C. Huffman, V. Pless. Fundamentals of error-correcting codes, 2003. 
 - SageMath, the Sage Mathematics Software System (Version 9.8), The Sage Developers, 2023, http://www.sagemath.org 
