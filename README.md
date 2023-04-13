@@ -37,10 +37,16 @@
     - Ecuaciones diferenciales con origen y aplicación en diferentes campos científicos. 
     - Modelado, análisis, conexiones, nuevas propuestas, etc.
     
- - [Ecuaciones en Derivadas Parciales en Física y Geometría](analisis/EDPsAnalisis.md)
+ - [Ecuaciones en Derivadas Parciales en Física y Geometría](analisis/EDPAnalisis.md)
     -  Problemas de la Física Matemática
     -  Ecuaciones con fronteras libres
     -  Prescripción de curvatura en una superficie
+  
+  - [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía](algebra/algheu.md)
+    - Códigos de bloque cíclicos sesgados
+    - Códigos convolucionales cíclicos
+    - Criptografía post-cuántica
+    - Calculo de la distancia mediante métodos heurísticos
    
 - [Polinomios ortogonales y aplicaciones](mapli/polinomios-ort.md)
     - Polinomios ortogonales clásicos
