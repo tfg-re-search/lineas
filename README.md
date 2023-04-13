@@ -9,6 +9,14 @@
     - Reducción de dimensión
     - Aprendizaje estadístico funcional
 
+- [Análisis Funcional](analisis/AnalisisFuncional.md)
+    - Optimización
+    - Resultados de estructura de espacios de Banach
+    - Análisis de operadores lineales y no lineales
+    - Estudio de aplicaciones “preservers” o “preservadoras”
+    - Diferenciabilidad en espacios de Banach.
+    - Rangos numéricos y propiedad de Daugavet.
+
 - [Análisis geométrico](geom/analisisgeometrico.md)
     - Superficies mínimas en espacios euclídeos
     - Superficies con curvatura media constante y curvatura prescrita
@@ -25,9 +33,14 @@
     - Órdenes en los distintos codominios propuestos y sus relaciones
     - Estudio de operadores definidos para conjuntos difusos y sus extensiones
 
-- [Ecuaciones difrenciales en Matemática Aplicada](mapli/EcuacionesDiferenciales.md)
+- [Ecuaciones diferenciales en Matemática Aplicada](mapli/EcuacionesDiferenciales.md)
     - Ecuaciones diferenciales con origen y aplicación en diferentes campos científicos. 
     - Modelado, análisis, conexiones, nuevas propuestas, etc.
+    
+ - [Ecuaciones en Derivadas Parciales en Física y Geometría](analisis/EDPsAnalisis.md)
+    -  Problemas de la Física Matemática
+    -  Ecuaciones con fronteras libres
+    -  Prescripción de curvatura en una superficie
    
 - [Polinomios ortogonales y aplicaciones](mapli/polinomios-ort.md)
     - Polinomios ortogonales clásicos
