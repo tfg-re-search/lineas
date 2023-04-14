@@ -93,6 +93,7 @@ Tener un programa informático que haga cálculos con y en semigrupos numéricos
 - [Resumen ampliado](https://tfg-re-search.github.io/lineas/algebra/resumenes/semigrupos-numericos.html) de esta línea
 - Último encuentro internacional de semigrupos numéricos ([IMNS](https://www.ugr.es/~imns2010/2022/))
 - Red [MyA](https://www.ugr.es/~semigrupos/MyA/)
+- [¿Hay alguna posibilidad de pedir 11 nuggets de pollo a pesar de que las cajas son de 4, 6 y 9?](https://www.abc.es/ciencia/posibilidad-pedir-nuggets-pollo-pesar-cajas-20230404212714-nt.html)
 
 ## Bibliografía
 
