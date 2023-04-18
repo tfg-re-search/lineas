@@ -33,6 +33,11 @@
     - Órdenes en los distintos codominios propuestos y sus relaciones
     - Estudio de operadores definidos para conjuntos difusos y sus extensiones
 
+- [Diseño y Análisis Estadístico de Encuestas por Muestreo](estad/muestreo.md)
+    - Métodos de respuesta indirecta
+    - Métodos para mitigar la falta de respuesta
+    - Tratamiento de muestras no probabilísticas
+
 - [Ecuaciones diferenciales en Matemática Aplicada](mapli/EcuacionesDiferenciales.md)
     - Ecuaciones diferenciales con origen y aplicación en diferentes campos científicos. 
     - Modelado, análisis, conexiones, nuevas propuestas, etc.
