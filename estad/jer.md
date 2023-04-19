@@ -25,7 +25,7 @@ Es de especial interés, en el análisis de tiempos de vida, el análisis del co
 El campo de aplicación de los modelos multi-estados es muy amplio resaltando el de supervivencia y fiabilidad. En el campo de la fiabilidad se han considerado modelos multi-estados (MSS) en la modelización de sistemas que atraviesan distintas etapas en su funcionamiento como son sistemas con degradación, mantenimiento preventivo,… 
 Son diversas las técnicas utilizadas en la modelización de sistemas multi-estados. Los procesos de Markov y semi-Markov permiten el estudio y modelización de sistemas multi-estado de una forma algorítmica, bien estructurada, obteniendo medidas de interés implementables computacionalmente. 
 
-### Línea 3. Distribuciones tipo fase 
+### Línea 3: distribuciones tipo fase 
 
 Las distribuciones tipo fase fueron introducidas y desarrolladas en profundidad por Neuts (1981). Estas distribuciones han sido consideradas en distintos campos de aplicación como fiabilidad, supervivencia, teoría de colas,… por sus buenas propiedades que permiten la algoritmización de resultados y su implementación computacional. En la literatura es cada vez más abundante la aparición de la familia de distribuciones tipo fase, especialmente en el caso continuo aunque el caso discreto es también de alto interés es alto con un gran campo de aplicaciones (sistemas discretos, observaciones periódicas, inspecciones,…). Muchos sistemas en el campo de la fiabilidad son modelizados mediante distribuciones tipo fase discretas. 
 
