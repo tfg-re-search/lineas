@@ -21,6 +21,7 @@ include:
   - geom/analisisgeometrico.md
   - estad/DatosFuncionales.md
   - estad/muestreo.md
+  - estad/geneida.md
   - analisis/AnalisisFuncional.md
   - analisis/EDPAnalisis.md
   
