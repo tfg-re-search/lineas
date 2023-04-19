@@ -9,6 +9,10 @@
     - Reducción de dimensión
     - Aprendizaje estadístico funcional
 
+- [Análisis de datos en el Proyecto GENEIDA](estad/geneida.md)
+    - Técnicas multivariantes
+    - Modelización
+
 - [Análisis Funcional](analisis/AnalisisFuncional.md)
     - Optimización
     - Resultados de estructura de espacios de Banach
