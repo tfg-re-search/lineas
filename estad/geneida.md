@@ -34,7 +34,7 @@ Regresión lineal múltiple, regresión logística o multinomial, regresión Tob
 
 ## Enlaces de interés
 
-[GENEIDA](https://www.easp.es/web/geneida/proyecto-geneida/presentacion-del-estudio)
+Proyecto [GENEIDA](https://www.easp.es/web/geneida/proyecto-geneida/presentacion-del-estudio)
 
 ## Bibliografía
 
