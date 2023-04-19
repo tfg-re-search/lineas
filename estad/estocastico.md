@@ -2,7 +2,7 @@
 
 ## Profesores implicados
 
--  Francisco de Asís Torres Ruiz
+-  [Francisco de Asís Torres Ruiz](http://wpd.ugr.es/~fdeasis/wordpress/), Departamento de Estadística e Investigación Operativa
 
 ## Tipologías posibles
 
