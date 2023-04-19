@@ -15,7 +15,6 @@
 
 ### Otros miembros del grupo de investigación:
 - [Juan Eloy Ruiz Castro](https://estadistica.ugr.es/informacion/directorio-personal/juan-eloy-ruiz-castro)
-- [Francisco J. Alonso Morales](https://estadistica.ugr.es/informacion/directorio-personal/francisco-j-alonso-morales)
 - [Francisco A. Ocaña Lara](https://estadistica.ugr.es/informacion/directorio-personal/francisco-antonio-ocana-lara)
 - [Francisco M. Ocaña Peinado](https://estadistica.ugr.es/informacion/directorio-personal/francisco-ocana-peinado) 
 - [Paula Rodriguez Bouzas](https://estadistica.ugr.es/informacion/directorio-personal/paula-rodriguez-bouzas)
@@ -26,7 +25,7 @@
 - [Christian Preda](http://math.univ-lille1.fr/~preda/index.html) (Universidad de Lille)
 - [Juan Bautista Roldán Aranda](https://www.ugr.es/personal/juan-bautista-roldan-aranda) (Universidad de Granada)
 - [Mario Lanza](https://lanzalab.com/) (Universidad de Soochow, China)
--  ….
+- ...
     
 Los profesores sin adscripción explícita son miembros del [Dpto. de Estadística e Investigación Operativa](https://estadistica.ugr.es/informacion/directorio-personal)
 
@@ -39,25 +38,11 @@ Los profesores sin adscripción explícita son miembros del [Dpto. de Estadísti
 
 ## Breve descripción 
 
-Hoy en día es muy frecuente disponer de datos de alta dimensión asociados a un gran número de variables muy correladas, 
-de las que usualmente se dispone de muestras pequeñas. Los métodos estadísticos tradicionales de regresión, clasificación y 
-predicción con frecuencia no son eficientes para estos datos debido a problemas de tamaño muestral y sobreajuste. 
-Los datos funcionales son un tipo de datos de alta dimensión en los que se dispone de un gran número de observaciones 
-de una o varias variables en un argumento continuo, generalmente el tiempo, sobre una muestra de individuos. 
+Hoy en día es muy frecuente disponer de datos de alta dimensión asociados a un gran número de variables muy correladas, de las que usualmente se dispone de muestras pequeñas. Los métodos estadísticos tradicionales de regresión, clasificación y predicción con frecuencia no son eficientes para estos datos debido a problemas de tamaño muestral y sobreajuste. Los datos funcionales son un tipo de datos de alta dimensión en los que se dispone de un gran número de observaciones de una o varias variables en un argumento continuo, generalmente el tiempo, sobre una muestra de individuos.
 
-En general, el Análisis de Datos Funcionales (FDA) engloba una gran variedad de métodos estadísticos en los que los datos 
-proporcionan información sobre curvas o cualquier otra función que varía de forma continua. En la mayoría de los casos se 
-dispone de una muestra de curvas que proceden de la evolución temporal de una variable aleatoria (proceso estocástico).  
-La principal ventaja del análisis de datos funcionales es que se tiene en cuenta la información proporcionada por las funciones como su 
-continuidad, suavidad, etc. El FDA adquiere cuerpo de doctrina a mediados de los años noventa en base a la primera edición del 
-libro de Ramsay y Silverman, (1997) y desde entonces, el número de contribuciones a este campo no ha parado de incrementar con el fin de 
-intentar generalizar las metodologías clásicas al caso funcional.
+En general, el Análisis de Datos Funcionales (FDA) engloba una gran variedad de métodos estadísticos en los que los datos proporcionan información sobre curvas o cualquier otra función que varía de forma continua. En la mayoría de los casos se dispone de una muestra de curvas que proceden de la evolución temporal de una variable aleatoria (proceso estocástico). La principal ventaja del análisis de datos funcionales es que se tiene en cuenta la información proporcionada por las funciones como su continuidad, suavidad, etc. El FDA adquiere cuerpo de doctrina a mediados de los años noventa en base a la primera edición del libro de Ramsay y Silverman, (1997) y desde entonces, el número de contribuciones a este campo no ha parado de incrementar con el fin de intentar generalizar las metodologías clásicas al caso funcional.
 
-Dentro de la línea de investigación del equipo, el punto de partida en cualquier estudio será el de componentes principales. 
-A su vez, en cada uno de las líneas se pretende desarrollar un software de fácil manejo, partiendo de programas implementados en R. 
-Finalmente, se pretende abordar diversos problemas con datos reales en quimiometría, ciencias medioambientales, ingeniería y bibliometría.
-
-
+El punto de partida en la investigación del equipo es la proyección de las curvas muestrales en un espacio de dimensión finita generado por una base de funciones adecuadamente seleccionada y la obtención de los coeficientes básicos a partir de las observaciones discretas disponibles para cada curva. A su vez, en cada uno de las líneas se pretende desarrollar un software de fácil manejo, partiendo de programas implementados en R. Finalmente, se pretende abordar diversos problemas con datos reales en quimiometría, ciencias medioambientales, ingeniería y bibliometría. 
 
 ## Descripción de líneas 
 
