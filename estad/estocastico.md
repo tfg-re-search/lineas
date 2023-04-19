@@ -2,6 +2,8 @@
 
 ## Profesores implicados
 
+-  Francisco de Asís Torres Ruiz
+
 ## Tipologías posibles
 
 ## Breve descripción
