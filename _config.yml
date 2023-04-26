@@ -23,6 +23,7 @@ include:
   - estad/muestreo.md
   - estad/geneida.md
   - estad/jer.md
+  - estad/estocastico.md
   - analisis/AnalisisFuncional.md
   - analisis/EDPAnalisis.md
   
