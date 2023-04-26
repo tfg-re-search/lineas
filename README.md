@@ -63,11 +63,16 @@
     - Redes de Toda y polinomios ortogonales
     - Polinomios ortogonales en el simplex
     - Polinomios de Zernike
+   
 - [Predicción, Estimación y Modelización en análisis de supervivencia y fiabilidad](estad/jer.md)
     - Análisis de tiempos de vida en análisis de supervivencia y fiabilidad
     - Modelos multi-estados en fiabilidad
     - Distribuciones tipo fase
 
+- [Procesos estocásticos. Aplicaciones a la modelización](estad/estocastico.md)
+    - Modelización de fenómenos de crecimiento mediante procesos de difusión
+    - Procesos estocásticos gaussianos
+ 
 - [Semigrupos numéricos](algebra/semigrupos.md)
     - Invariantes de factorización
     - Intersecciones completas y pegadas
