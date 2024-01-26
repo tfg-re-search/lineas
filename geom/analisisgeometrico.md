@@ -19,7 +19,7 @@ Materiales, Arquitectura, etc.
 
 ## Descripción de líneas 
 
-### Línea 1:  Superficies mínimas en espacios euclídeos
+### Línea 1:  Superficies mínimas en variedades riemannianas
 
 Las superficies mínimas son puntos críticos del funcional área. Su estudio cae en la intersección entre el Cálculo de Variaciones, las EDPs elípticas, la Teoría Geométrica de la Medida y el Análisis Complejo. Esta teoría produce métodos con gran aplicación en Análisis Geométrico. Aunque es una teoría ya clásica, sigue siendo de gran actividad en investigación en la actualidad, como puede verse en la gran cantidad de artículos de investigación de primer nivel que se publican cada año. Recientemente, también estamos estudiando aplicaciones de superficies mínimas en arquitectura.
 
