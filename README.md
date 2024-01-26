@@ -22,7 +22,7 @@
     - Rangos numéricos y propiedad de Daugavet.
 
 - [Análisis geométrico](geom/analisisgeometrico.md)
-    - Superficies mínimas en espacios euclídeos
+    - Superficies mínimas en variedades riemannianas
     - Superficies con curvatura media constante y curvatura prescrita
     - Flujos por la curvatura media
     - Problemas elípticos sobredeterminados
