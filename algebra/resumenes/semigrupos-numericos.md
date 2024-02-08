@@ -685,7 +685,7 @@ y que usamos para hablar de presentaciones para $S$. La gente que
 estudia factorizaciones le suele llamar *homomorfismo de factorización*
 de $S$. Dado $n\in S$, se define el conjunto de factorizaciones de $n$
 como $\mathsf{Z}n)=\varphi^{-1}(n)$. Así en el ejemplo anterior las
-factorizaciones de 6 son $\mathsf{Z}s)=\lbrace (3,0),(0,2)\rbrace$ . Esto es, nos quedamos
+factorizaciones de 6 son $\mathsf{Z}(s)=\lbrace (3,0),(0,2)\rbrace$ . Esto es, nos quedamos
 con los exponentes de los irreducibles que aparecen en las
 factorizaciones. Los conjuntos de factorizaciones de un elemento $n$ en
 $S$ se corresponden con las soluciones no negativas de
