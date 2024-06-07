@@ -49,13 +49,13 @@ Proporciona un marco riguroso para la validación y verificación de los modelos
 La fundamentación matemática facilita la colaboración interdisciplinaria, permitiendo a expertos de diferentes campos (Matemática Aplicada y Computacional, Física, Ingenierías y en particular, Ingeniería Informática ) contribuir al avance del deep learning.
 
 
-### Enlaces de proyectos implicados:
+## Enlaces de proyectos implicados:
 - Grupo de investigación interdisciplinar [Matemática Aplicada-Ciencias de la Computación SECABA](https://secaba.ugr.es/) .
 - Instituto Andaluz Data Science (DaSci) dentro del grupo de investigación [SCI2S](https://dasci.es/es/). 
 - Proyecto Nacional PID2022-139297OB-I00 Título: [``Nuevos sistemas difusos explicables de toma de decisiones en grupo: aplicaciones en el mundo digital''](https://produccioncientifica.ugr.es/proyectos/661973/detalle). Agencia Estatal de Investigación. Ministerio de Ciencia e Innovación. Proyectos de generación de conocimiento 2022.
 - Equipo de investigación de la Unidad de Excelencia María de Maeztu "Instituto de Matemáticas de la Universidad de Granada (IMAG)"
 
-### Tipologías posibles
+## Tipologías posibles
 - Complemento de profundización
 - Herramientas informáticas
 - Iniciación a la investigación
