@@ -46,7 +46,7 @@
     - Ecuaciones diferenciales con origen y aplicación en diferentes campos científicos. 
     - Modelado, análisis, conexiones, nuevas propuestas, etc.
 
-- [Grupos finitos](algegra/grupos-finitos.md)
+- [Grupos finitos](algebra/grupos-finitos.md)
     - Las matemáticas del cubo de Rubik y otros rompecabezas
     - Teoría de subgrupos de Hall
     - Introducción a los caracteres de Brauer
