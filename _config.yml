@@ -17,7 +17,8 @@ include:
   - algebra/resumenes/semigrupos-numericos.md
   - algebra/semigrupos.md
   - algebra/difusos.md
-  - algegra/algheu.md
+  - algebra/algheu.md
+  - algebra/grupos-finitos.md
   - geom/analisisgeometrico.md
   - estad/DatosFuncionales.md
   - estad/muestreo.md
