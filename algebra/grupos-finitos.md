@@ -42,15 +42,15 @@ Este trabajo muestra cómo el análisis matemático y el álgebra se pueden inte
 
 Se pretende estudiar una demostración alternativa de este célebre teorema (sobre la resolubilidad de grupos cuyo orden es divisible solamente por dos primos) respecto a la vista en la asignatura Álgebras, Grupos y Representaciones. Concretamente, el objetivo es ver una demostración que no usa la teoría de caracteres. 
 
-Influencia de los tamaños de clase en grupos finitos
+### 6. Influencia de los tamaños de clase en grupos finitos
 
 Iniciación a un tema clásico de investigación en la teoría de grupos finitos: la estrecha relación existente entre las propiedades aritméticas de los tamaños de las clases de conjugación de un grupo y la estructura global del grupo. El trabajo abordaría el estudio de algunos resultados pioneros que relacionan estos conceptos.
 
-### 6. Introducción a la teoría de códigos lineales
+### 7. Introducción a la teoría de códigos lineales
 
 Introducción a los conceptos básicos de la teoría de códigos lineales correctores de errores. Se estudiarán nociones fundamentales como la longitud, la dimensión y la distancia mínima, así como técnicas algebraicas para su construcción y análisis.
 
 
-### 7. Códigos de grupo
+### 8. Códigos de grupo
 
 Extensión natural del tema anterior, profundizando en una familia específica de códigos lineales: aquellos que permanecen invariantes bajo la acción de un grupo finito. Se estudiará la interrelación existente con el álgebra de grupo asociada y algunas de sus propiedades más importantes.
