@@ -33,12 +33,12 @@ Estudio de una generalización de la teoría de Sylow para grupos π-separables.
 Complemento ideal para estudiantes que hayan cursado la asignatura de Álgebras, Grupos y Representaciones. El objetivo es adentrarse en la teoría de representaciones modulares, donde el cuerpo base es de característica finita, estudiando la construcción y propiedades fundamentales de los caracteres de Brauer.
 
 
-### 4. Trascendencia de π y e
+### 4. Trascendencia de $\pi$ y $e$
 
 Este trabajo muestra cómo el análisis matemático y el álgebra se pueden interrelacionar para demostrar que los números π y e no son algebraicos sobre el cuerpo de los números racionales Q, es decir, no son raíces de ningún polinomio con coeficientes en Q.
 
 
-### 5. Teorema \(p^a\cdot q^b\) de Burnside
+### 5. Teorema $p^a\cdot q^b$ de Burnside
 
 Se pretende estudiar una demostración alternativa de este célebre teorema (sobre la resolubilidad de grupos cuyo orden es divisible solamente por dos primos) respecto a la vista en la asignatura Álgebras, Grupos y Representaciones. Concretamente, el objetivo es ver una demostración que no usa la teoría de caracteres. 
 
@@ -51,5 +51,6 @@ Iniciación a un tema clásico de investigación en la teoría de grupos finitos
 Introducción a los conceptos básicos de la teoría de códigos lineales correctores de errores. Se estudiarán nociones fundamentales como la longitud, la dimensión y la distancia mínima, así como técnicas algebraicas para su construcción y análisis.
 
 
-    Códigos de grupo
-    Extensión natural del tema anterior, profundizando en una familia específica de códigos lineales: aquellos que permanecen invariantes bajo la acción de un grupo finito. Se estudiará la interrelación existente con el álgebra de grupo asociada y algunas de sus propiedades más importantes.
+### 7. Códigos de grupo
+
+Extensión natural del tema anterior, profundizando en una familia específica de códigos lineales: aquellos que permanecen invariantes bajo la acción de un grupo finito. Se estudiará la interrelación existente con el álgebra de grupo asociada y algunas de sus propiedades más importantes.
