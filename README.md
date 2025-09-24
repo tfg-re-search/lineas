@@ -45,13 +45,21 @@
 - [Ecuaciones diferenciales en Matemática Aplicada](mapli/EcuacionesDiferenciales.md)
     - Ecuaciones diferenciales con origen y aplicación en diferentes campos científicos. 
     - Modelado, análisis, conexiones, nuevas propuestas, etc.
+
+- [Grupos finitos](algegra/grupos-finitos.md)
+    - Las matemáticas del cubo de Rubik y otros rompecabezas
+    - Teoría de subgrupos de Hall
+    - Introducción a los caracteres de Brauer
+    - Teorema $p^a\cdot p^b$ de Burnside
+    - Influencia de los tamaños de clase en grupos finitos
+    - Introducción a la teoría de códigos de grupo
     
- - [Ecuaciones en Derivadas Parciales en Física y Geometría](analisis/EDPAnalisis.md)
+- [Ecuaciones en Derivadas Parciales en Física y Geometría](analisis/EDPAnalisis.md)
     -  Problemas de la Física Matemática
     -  Ecuaciones con fronteras libres
     -  Prescripción de curvatura en una superficie
   
-  - [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía](algebra/algheu.md)
+- [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía](algebra/algheu.md)
     - Códigos de bloque cíclicos sesgados
     - Códigos convolucionales cíclicos
     - Criptografía post-cuántica
